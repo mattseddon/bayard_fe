@@ -72,7 +72,9 @@ Contributions are welcome! Please follow these steps:
 
 ## **License**
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under:
+
+[Weaver Laboratories License 1.0 for General Parties and Persons (WL1.0GP)](https://docs.bayardlab.org/wl1.0gp-license-terms#d8e3476e1a444e7bbfe1675afdd9caf0)
 
 ## **Contact**
 
